@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ditrinci/SpaceGame%20-%20web%20-%20pipeline/_apis/build/status/vespassassina.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ditrinci/SpaceGame%20-%20web%20-%20pipeline/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
